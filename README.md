@@ -18,7 +18,18 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
+```
+DEVELOPED BY: JEYABALAN T
+REGNO:212222240040
+x=input()
+y=input()
+t=x
+x=y
+y=t
+print("Swapped values are: {} {}".format(x,y))
+```
+## OUTPUT:
+![Screenshot 2023-03-27 092651](https://user-images.githubusercontent.com/119393851/227837731-a4927d1e-6e80-4c84-8fdf-98908f1011b8.png)
 
 
 ## RESULT:
